@@ -1,0 +1,41 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#navbar {
+    width: 100%;
+    top: 0%;
+    text-align: center;
+    color: aliceblue;
+    background-color: #0f1111;
+    position: fixed;
+
+}
+#navbar a{
+    color: #fff;
+    margin: 0 15px;
+    text-decoration: none;
+}
+#person
+{ 
+
+    position: flex;
+    border-radius:50%;
+    border:.5px solid black
+}
+
+table{
+    border-collapse: collapse;
+    text-align: left;
+    width: 100%;
+}
+table,td {
+    border: 1px solid #ddd;
+}
+
+td {
+    padding: 8px;
+    text-align: left;
+}
+footer{
+background-color: grey;
+}
